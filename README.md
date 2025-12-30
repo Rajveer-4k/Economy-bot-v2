@@ -1,3 +1,3 @@
 Owner - @rajveer_4k
 
-PS(( gambling bot
+PS99 gambling bot
