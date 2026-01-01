@@ -26,8 +26,8 @@ from blockcypher import subscribe_to_address_webhook
 app = Quart(__name__)
 
 Config = {
-    "Bot Name": "Rajveer is better",  # will be in all embeds
-    "Bot Icon": "https://cdn.discordapp.com/icons/1314565811410829332/a_f59d3588d80ec8f0ab041a65d6c5a761.gif?size=1024",  # will be in all embeds
+    "Bot Name": "Rajveer is better",  # will show in all commands 
+    "Bot Icon": "https://cdn.discordapp.com/icons/1314565811410829332/a_f59d3588d80ec8f0ab041a65d6c5a761.gif?size=1024",  # pfp of the bot
     "Towers": {  # Config for towers
         "WinChance": 45,  # Percent they will win when they click a tower
         "Multis": [1.42, 2.02, 2.86, 4.05, 5.69]  # Multipliers On The Blocks
